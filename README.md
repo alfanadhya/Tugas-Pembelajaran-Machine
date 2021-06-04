@@ -1,4 +1,4 @@
-# Tugas2-MachineLearning-MLP
+# Tugas Pembeljaran Mesin
 Task : Image Classification terhadap 3 kelas <br>
 🌼 daisy <br>
 💮 dandelion <br>
